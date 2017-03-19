@@ -6,26 +6,26 @@ You can find other details on the main website page.
 
 Version details
 ---------------
-> **Current version :** v2017.03.15
+> **Current version:** v2017.03.19
 
 | Version  | Articles number | Words number | Number of categories | Source
 | :------: | :-------------: | :---------: | :-------------------: | :-----:|
-| v2017.03.15 **(current)** | 5 349  | | 9 | [JawharaFM](http://www.jawharafm.net/ar/) |
+| v2017.03.19 **(current)** | 6 005  | > 865 500 | 9 | [JawharaFM](http://www.jawharafm.net/ar/) |
 
 Categories
 ----------------
 
-| Category (en)  | Category (ar) | JawharaFM |
-| :------: | :-------------: | :---------: |
-| culture | ثقافة | [x] |
-| diverse | متفرقات | [x] |
-| economy | اقتصاد | [x] |
-| internationalNews | دولية | [x] |
-| localNews | وطنية | [x] |
-| politic | سياسة | [x] |
-| society | مجتمع | [x] |
-| sport | رياضة | [x] |
-| technology | تّكنولوجيا | [x] |
+| Category (en)  | Category (ar) | JawharaFM | Articles Number |
+| :------: | :-------------: | :---------: | :---------: |
+| culture | ثقافة | [x] | 70 |
+| diverse | متفرقات | [x] | 194 |
+| economy | اقتصاد | [x] | 174 |
+| internationalNews | دولية | [x] | 561 |
+| localNews | وطنية | [x] | 3090 |
+| politic | سياسة | [x] | 281 |
+| society | مجتمع | [x] | 673 |
+| sport | رياضة | [x] | 906 |
+| technology |تكنولوجيا | [x] | 56 |
 
 Files format
 ----------------
