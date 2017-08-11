@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>JA-internationalNews-43-20170123</DOCNO>
+<URL>http://www.jawharafm.net/ar/article/مقتل-أبو-عياض-في-ليبيا/106/76523</URL> 
+<SRC>Jawhara FM</SRC>
+<CAT>internationalNews</CAT>
+<TITLE>مقتل "أبو عياض" في ليبيا</TITLE>
+<TIME>2017-01-23T21:04:00+01:00</TIME>
+<AUTHOR></AUTHOR>
+<ABSTRACT>
+
+</ABSTRACT>
+<TEXT>
+أوردت قناة العربية خبرا عاجلا منذ قليل مفاده مقتل أبو عياض التونسي فياشتباكات في قنفودة غرب بنغازي بليبيا.
+</TEXT>
+</DOC>
