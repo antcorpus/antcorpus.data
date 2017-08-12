@@ -6,16 +6,16 @@ You can find other details on the main website page.
 
 Version details
 ---------------
-> **Current version:** v2017.03.19
+> **Current version:** v1.0
 
 | Version  | Articles number | Words number | Number of categories | Source
 | :------: | :-------------: | :---------: | :-------------------: | :-----:|
-| v2017.03.19 **(current)** | 6 005  | > 865 500 | 9 | [JawharaFM](http://www.jawharafm.net/ar/) |
+| v1.0 **(current)** | 6 005  | > 865 500 | 9 | [JawharaFM](http://www.jawharafm.net/ar/) |
 
 Categories
 ----------------
 
-| Category (en)  | Category (ar) | JawharaFM | Articles Number |
+| Category (en)  | Category (ar) | JawharaFM | # of articles (v1.0) |
 | :------: | :-------------: | :---------: | :---------: |
 | culture | ثقافة | [x] | 70 |
 | diverse | متفرقات | [x] | 194 |
@@ -42,12 +42,12 @@ This a sample of an article from JawharaFM as a news web source in the "economy"
   <TIME>2017-01-25T14:36:00+01:00</TIME>
   <AUTHOR></AUTHOR>
   <ABSTRACT>
-قال المدير الجهوي للمجمع المهني المشترك للغلال، علي الطاهر البوعزيزي،
+قال المدير الجهوي للمجمع المهني المشترك للغلال، 
  إنه تم تصدير 36 ألف طن من التمور بعائدات مالية قدرها 180 مليون دينار،
  منذ بداية الموسم وإلى غاية 24 جانفي الحالي.
   </ABSTRACT>
   <TEXT>
-قال المدير الجهوي للمجمع المهني المشترك للغلال، علي الطاهر البوعزيزي،
+قال المدير الجهوي للمجمع المهني المشترك للغلال، 
  إنه تم تصدير 36 ألف طن من التمور بعائدات مالية قدرها 180 مليون دينار،
  منذ بداية الموسم وإلى غاية 24 جانفي الحالي.
 وأضاف في تصريح لوكالة الأنباء الرسمية "وات" أن هذه الكميات شهدت ارتفاعا
@@ -72,6 +72,9 @@ This a sample of an article from JawharaFM as a news web source in the "economy"
 >By downloading ANT Corpus, you agree to cite at least one of our papers describing ANT Corpus and/or refer the project's main page in any kind of material you produce where ANT Corpus was used to conduct search or experimentation, whether be it a research paper, dissertation, article, poster, presentation, or documentation.   
 >**By using this data, you have agreed to the citation licence**.
 
+### Publications
+:page_facing_up: A. Chouigui, O. Ben Khiroun, and B. Elayeb. **ANT Corpus : An Arabic News Text Collection for Textual Classification**. In proceedings of the 14th ACS/IEEE International Conference on Computer Systems and Applications ([AICCSA 2017](http://www.aiccsa.net/AICCSA2017/)), Hammamet, Tunisia, October 30 - November 3, 2017.
+
 ## Do you want to contribute to ANT Corpus project?
 > If you want to report bugs, make suggestions for new categories, website sources and etc, your first point-of-call should by the [Issues page](https://github.com/antcorpus/antcorpus.data/issues) for the repository. If you have something to add, either to a preexisting issue, or as an entirely new issue, feel free to do so.
 > ### Have any ideas?
@@ -88,6 +91,6 @@ This a sample of an article from JawharaFM as a news web source in the "economy"
 > Copyright (C) 2017 All Rights Reserved.  
 > [RIADI-ENSI](http://www.riadi.rnu.tn/), [University of Manouba](http://www.uma.rnu.tn) & [ENISo](eniso.rnu.tn), [University of Sousse](http://www.uc.rnu.tn).  
 
-![Version](https://img.shields.io/badge/last_version-v2017.03.19-green.svg)
+![Version](https://img.shields.io/badge/last_version-v1.0-green.svg)
 ![Status](https://img.shields.io/badge/status-beta-orange.svg)
 ![Licence](https://img.shields.io/badge/licence-Apache_2.0-blue.svg)
