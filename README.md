@@ -94,6 +94,6 @@ This a sample of an article from JawharaFM as a news web source in the "economy"
 > Copyright (C) 2017 All Rights Reserved.  
 > [RIADI-ENSI](http://www.riadi.rnu.tn/), [University of Manouba](http://www.uma.rnu.tn) & [ENISo](eniso.rnu.tn), [University of Sousse](http://www.uc.rnu.tn).  
 
-![Version](https://img.shields.io/badge/last_version-v1.0-green.svg)
+![Version](https://img.shields.io/badge/last_version-v1.1-green.svg)
 ![Status](https://img.shields.io/badge/status-beta-orange.svg)
 ![Licence](https://img.shields.io/badge/licence-Apache_2.0-blue.svg)
