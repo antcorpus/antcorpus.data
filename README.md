@@ -6,26 +6,27 @@ You can find other details on the main website page.
 
 Version details
 ---------------
-> **Current version:** v1.0
+> **Current version:** v1.1
 
 | Version  | Articles number | Words number | Number of categories | Source
 | :------: | :-------------: | :---------: | :-------------------: | :-----:|
-| v1.0 **(current)** | 6 005  | > 865 500 | 9 | [JawharaFM](http://www.jawharafm.net/ar/) |
+| v1.1 **(current)** | 10 161  | > 1 474 000 | 9 | [JawharaFM](http://www.jawharafm.net/ar/) |
+| v1.0 | 6 005  | > 865 500 | 9 | [JawharaFM](http://www.jawharafm.net/ar/) |
 
 Categories
 ----------------
 
-| Category (en)  | Category (ar) | JawharaFM | # of articles (v1.0) |
-| :------: | :-------------: | :---------: | :---------: |
-| culture | ثقافة | [x] | 70 |
-| diverse | متفرقات | [x] | 194 |
-| economy | اقتصاد | [x] | 174 |
-| internationalNews | دولية | [x] | 561 |
-| localNews | وطنية | [x] | 3090 |
-| politic | سياسة | [x] | 281 |
-| society | مجتمع | [x] | 673 |
-| sport | رياضة | [x] | 906 |
-| technology |تكنولوجيا | [x] | 56 |
+| Category (en)  | Category (ar) | JawharaFM | # of articles (v1.0) | # of articles (v1.1) |
+| :------: | :-------------: | :---------: | :---------: | :---------: |
+| culture | ثقافة | [x] | 70 | 124 |
+| diverse | متفرقات | [x] | 194 | 475 |
+| economy | اقتصاد | [x] | 174 | 326 |
+| internationalNews | دولية | [x] | 561 | 1 260 |
+| localNews | وطنية | [x] | 3 090 | 4 832 |
+| politic | سياسة | [x] | 281 | 514 |
+| society | مجتمع | [x] | 673 | 1 087 |
+| sport | رياضة | [x] | 906 | 1 460 |
+| technology |تكنولوجيا | [x] | 56 | 83 |
 
 Files format
 ----------------
@@ -73,7 +74,9 @@ This a sample of an article from JawharaFM as a news web source in the "economy"
 >**By using this data, you have agreed to the citation licence**.
 
 ### Publications
-:page_facing_up: A. Chouigui, O. Ben Khiroun, and B. Elayeb. **ANT Corpus : An Arabic News Text Collection for Textual Classification**. In proceedings of the 14th ACS/IEEE International Conference on Computer Systems and Applications ([AICCSA 2017](http://www.aiccsa.net/AICCSA2017/)), Hammamet, Tunisia, October 30 - November 3, 2017.
+:page_facing_up: A. Chouigui, O. Ben Khiroun, and B. Elayeb. **ANT Corpus : An Arabic News Text Collection for Textual Classification**. In proceedings of the 14th ACS/IEEE International Conference on Computer Systems and Applications ([AICCSA 2017](http://www.aiccsa.net/AICCSA2017/)), pp. 135-142, Hammamet, Tunisia, October 30 - November 3, 2017.
+
+:page_facing_up: A. Chouigui, O. Ben Khiroun, and B. Elayeb. **A TF-IDF and Co-occurrence Based Approach for Events Extraction from Arabic News Corpus**. In proceedings of the 23rd International Conference on Natural Language & Information Systems ([NLDB 2018](http://nldb2018.cnam.fr/)), pp. 272-280, Paris, France, 13-15 June 2018.
 
 ## Do you want to contribute to ANT Corpus project?
 > If you want to report bugs, make suggestions for new categories, website sources and etc, your first point-of-call should by the [Issues page](https://github.com/antcorpus/antcorpus.data/issues) for the repository. If you have something to add, either to a preexisting issue, or as an entirely new issue, feel free to do so.
